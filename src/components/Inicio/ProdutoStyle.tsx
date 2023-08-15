@@ -69,12 +69,6 @@ background-color: transparent;
 `;
 
 
-export const CurtidaConteiner = styled.div`
-display: flex;
-align-items: center;  
-justify-content: center;
-`;
-
 
 export const Produtolocalizacao = styled.img`
 width: 7px;

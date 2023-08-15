@@ -1,6 +1,5 @@
-import { ConteinerImg, ConteinerProduto, CurtidaConteiner, EstrelaUni, EstrelasDiv, LikeDiv, Likeimg, ProdutoImg, ProdutoName, ProdutoPreço, Produtolocalizacao, Produtolugar, TextoConteiner } from "./ProdutoStyle";
+import { ConteinerImg, ConteinerProduto, EstrelaUni, EstrelasDiv, LikeDiv, Likeimg, ProdutoImg, ProdutoName, ProdutoPreço, Produtolocalizacao, Produtolugar, TextoConteiner } from "./ProdutoStyle";
 import produto from '../../assets/Produto.png';
-import produto2 from '../../assets/Cooler.png';
 import produto3 from '../../assets/HeadSet.png';
 import produto4 from '../../assets/Mouse.png';
 import curte from '../../assets/Curtida.png';
